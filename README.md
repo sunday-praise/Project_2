@@ -89,8 +89,7 @@ and analysis tools (Excel, Tableau).
 
 # The Analysis
 
-## 2. How are in-demand skills trending for Data
-Analysts?
+## 2. How are in-demand skills trending for Data Analysts?
 
 ### Visualize Data
 
@@ -110,7 +109,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US]<img width="620" height="449" alt="output" src="https://github.com/user-attachments/assets/fe92de12-8c21-4215-9a93-4a324fbc4d59" />
+<img width="620" height="449" alt="output" src="https://github.com/user-attachments/assets/fe92de12-8c21-4215-9a93-4a324fbc4d59" />
 
 *Bar graph visualizing the trending top skills for
 data analysts in the US in 2023.*
@@ -129,8 +128,7 @@ Power BI, while less demanded compared to the
 others, shows a slight upward trend towards the
 year's end.
 
-## 3. How well do jobs and skills pay for Data
-Analysts?
+## 3. How well do jobs and skills pay for Data Analysts?
 
 ### Salary Analysis for Data Nerds
 
@@ -148,7 +146,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US]<img width="697" height="457" alt="Salary_Distribution" src="https://github.com/user-attachments/assets/56e29c1a-0e98-4dfd-9772-647af1d2d37c" />
+<img width="697" height="457" alt="Salary_Distribution" src="https://github.com/user-attachments/assets/56e29c1a-0e98-4dfd-9772-647af1d2d37c" />
 
 *Box plot visualizing the salary distributions for
 the top 6 data job titles.*
@@ -201,8 +199,7 @@ specialized skills and widely demanded
 foundational skills.
 
 
-## 4. What is the most optimal skill to learn for
-Data Analysts?
+## 4. What is the most optimal skill to learn for Data Analysts?
 
 #### Visuaļize Data
 
@@ -216,7 +213,7 @@ plt.scatter(df_DA_skills_high_demand
 plt.show()
 ```
 
-![Most Optimal Skills for Data Analysts in the US]<img width="623" height="464" alt="optimal_results" src="https://github.com/user-attachments/assets/48040580-b056-46d1-b2fa-2d9757040fba" />
+<img width="623" height="464" alt="optimal_results" src="https://github.com/user-attachments/assets/48040580-b056-46d1-b2fa-2d9757040fba" />
 
 
 *A scatter plot visualizing the most optimal
