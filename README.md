@@ -66,7 +66,8 @@ plt.show()
 ```
 
 ### Results
-![Visualization of Top Skills for Data Nerds](Images\Likelihood_Job_Posting.png)
+<img width="624" height="463" alt="In-Demand_Highest_Paid_Skills" src="https://github.com/user-attachments/assets/ac6b87a5-0544-47de-bb00-22a264632969" />
+
 
 
 
